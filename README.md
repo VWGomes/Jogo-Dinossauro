@@ -3,4 +3,4 @@
 
 ![screenshot](example.png?raw=true "screenshot")
 
-2022
+2022.
